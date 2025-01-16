@@ -1,0 +1,147 @@
+.header{
+	height: 100px;
+	background-color: tomato;
+}
+.container{}
+.blog{
+	float: left;
+	width: 40%;
+	height: 150px;
+	background-color: lightblue;
+}
+.contact{
+	float: right;
+	width: 60%;
+	height: 150px;
+	background-color: teal;
+}
+.container{
+	overflow: hidden;
+}
+.item-1{
+	float: left;
+	width: 33.33%;
+	height: 150px;
+	background-color: green;
+}
+.item-2{
+	float: left;
+	width: 33.33%;
+	height: 150px;
+	background-color: gray;
+}
+.item-3{
+	float: left;
+	width: 33.33%;
+	height: 150px;
+	background-color: blue;
+}
+.container2{
+	overflow: hidden;
+}
+.item4{
+	float: left;
+	width: 25%;
+	height: 150px;
+	background-color: blue;
+}
+.item5{
+	float: left;
+	width: 25%;
+	height: 150px;
+	background-color: teal;
+}
+.item6{
+	float: left;
+	width: 25%;
+	height: 150px;
+	background-color: tomato;
+}
+.item7{
+	float: left;
+	width: 25%;
+	height: 150px;
+	background-color: goldenrod;
+}
+.footer{
+	height: 100px;
+	background-color: green;
+}
+.container3{
+	overflow: hidden;
+}
+.item8{
+	float: left;
+	width: 20%;
+	height: 150px;
+	background-color: olive;
+}
+.item9{
+	float: left;
+	width: 20%;
+	height: 150px;
+	background-color: bisque;
+}
+.item10{
+	float: left;
+	width: 20%;
+	height: 150px;
+	background-color: gray;
+}
+.item11{
+	float: left;
+	width: 20%;
+	height: 150px;
+	background-color: rosybrown;
+}
+.item12{
+	float: left;
+	width: 20%;
+	height: 150px;
+	background-color: tomato;
+}
+.container4{
+	overflow: hidden;
+}
+.item13{
+	float: left;
+	width: 14.28%;
+	height: 150px;
+	background-color: rosybrown;
+}
+.item14{
+	float: left;
+	width: 14.28%;
+	height: 150px;
+	background-color: tomato;
+}
+.item15{
+	float: left;
+	width: 14.28%;
+	height: 150px;
+	background-color: teal;
+}
+.item16{
+	float: left;
+	width: 14.28%;
+	height: 150px;
+	background-color: tomato;
+}
+.item17{
+	float: left;
+	width: 14.28%;
+	height: 150px;
+	background-color: blueviolet;
+}
+.item18{
+	float: left;
+	width: 14.28%;
+	height: 150px;
+	background-color: brown;
+}
+.item19{
+	float: left;
+	width: 14.28%;
+	height: 150px;
+	background-color: grey;
+}
